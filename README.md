@@ -1,7 +1,7 @@
-# Quadratic Equations Solver
+# Решатель квадратных уравнений
 
-[TODO. There will be project description]
+Данная программа находит дискриминант и корни квадратного уравнения. Вторая программа - тест, проверяющий корректность выполнения с разными входными данными. 
 
-# Project Goals
+# Цели проекта
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+Код создан в учебных целях. В рамках учебного курса по веб-разработке - [DEVMAN.org](https://devman.org)
